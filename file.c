@@ -1,4 +1,10 @@
 #include<stdio.h>
 void main(){
-  printf("09:46, 5/4/2017");
+  int a,b;
+  printf("Hello");
+  printf("enter first number: ");
+  scanf("%d",&a);
+  printf("enter second number: ");
+  scanf("%d",&b);
+  printf("Sum is : %d", a+b);
   }
