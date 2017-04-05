@@ -7,4 +7,5 @@ void main(){
   printf("enter second number: ");
   scanf("%d",&b);
   printf("Sum is : %d", a+b);
+  printf("Product is : %d", a*b);
   }
